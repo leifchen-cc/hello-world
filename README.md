@@ -8,5 +8,5 @@ test local branch: dev conflict in dev branch
 
 test --no-ff
 
-test --stash
+main fix a bug to test --stash
 
