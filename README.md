@@ -8,3 +8,5 @@ test local branch: dev conflict in dev branch
 
 test --no-ff
 
+test --stash
+
