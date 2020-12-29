@@ -10,3 +10,5 @@ test --no-ff
 
 main fix a bug to test --stash
 
+wsl-ubuntu test remote dev & push
+
