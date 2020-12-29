@@ -10,5 +10,5 @@ test --no-ff
 
 main fix a bug to test --stash
 
-wsl-ubuntu test remote dev & push
+wsl-ubuntu test remote dev & push PC add sth to test cowork;
 
